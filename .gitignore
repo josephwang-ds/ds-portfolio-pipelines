@@ -1,0 +1,6 @@
+*.parquet
+*.csv
+__pycache__/
+.venv/
+*_results.json
+!*/README.md
